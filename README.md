@@ -43,9 +43,9 @@ A* 알고리즘은 출발 꼭짓점으로부터 목표 꼭짓점까지의 최적
 
 **A\* 알고리즘 범례**:
 
-![Astar_progress_animation](C:\Users\NonSleep\2025-AIX-DL-Project\img\Astar_progress_animation.gif)
+![image](https://github.com/hachiman888/2025-AIX-DL-Project/blob/main/img/Astar_progress_animation.gif)
 
-<img src="C:\Users\NonSleep\2025-AIX-DL-Project\img\Astarpathfinding.gif" alt="Astarpathfinding" style="zoom:67%;" />
+![image](https://github.com/hachiman888/2025-AIX-DL-Project/blob/main/img/Astarpathfinding.gif)
 
 이 알고리즘은 ***최상우선탐색(Best-First Search)***과 다익스트라 ***알고리즘(Dijkstra's algorithm)***의 장점을 결합하였습니다: 휴리스틱 탐색을 통해 알고리즘 효율을 높일 동시에 (평가 함수가 단조성을 만족할 경우) 최적 경로를 찾을 수 있음을 보장합니다.
 
@@ -82,7 +82,8 @@ A* 알고리즘은 출발 꼭짓점으로부터 목표 꼭짓점까지의 최적
 
 **D\* 알고리즘 작동 범례**:
 
-<img src="C:\Users\NonSleep\2025-AIX-DL-Project\img\b585763e54494849b51929fa51ef5342.gif" alt="b585763e54494849b51929fa51ef5342" style="zoom:67%;" />
+![image](https://github.com/hachiman888/2025-AIX-DL-Project/blob/main/img/b585763e54494849b51929fa51ef5342.gif)
+
 
 D* 알고리즘은 Anthony Stentz에 의해 1994년에 처음 제안되었으며, 동적 환경에서의 경로 계획 문제에 대처하는 것이 목적입니다. 이 알고리즘의 기원은 **자율 주행**, **이동 로봇**, 특히 **실시간으로 지도 변화를 처리해야 하는 분야와 밀접한 관련이 있습니다**. D* 알고리즘은 점진적 경로 계획 알고리즘으로, 환경이 변화할 때 이전에 계산된 경로를 바탕으로 처음부터 전체 경로를 재계산하지 않고 점진적으로 업데이트하여 계산 자원을 절약하고 실시간 대응 능력을 향상시킵니다.
 
@@ -524,8 +525,8 @@ if __name__ == '__main__':
 
 ###  6.7실행 효과(코드 좀 바꾼 후)
 
-<img src="C:\Users\NonSleep\2025-AIX-DL-Project\img\dstar_path.gif" alt="dstar_path" style="zoom:67%;" />
 
+![image](https://github.com/hachiman888/2025-AIX-DL-Project/blob/main/img/dstar_path.gif)
 
 
 ## 7. 결론
