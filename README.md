@@ -34,7 +34,9 @@ A* 알고리즘(A* search algorithm)은 그래프 평면에 여러 노드가 있
 
 A* 알고리즘은 출발 꼭짓점으로부터 목표 꼭짓점까지의 최적 경로를 탐색하기 위한 것이다. 이를 위해서는 각각의 꼭짓점에 대한 평가 함수를 정의해야 한다. 이를 위한 평가 함수 `f(n)`은 다음과 같다.
 
-![Formula1](C:\Users\NonSleep\Desktop\Formula1.png)
+
+![image](https://github.com/hachiman888/2025-AIX-DL-Project/blob/main/img/Formula1.png)
+
 
 * `g(n)` :출발 꼭짓점으로부터 꼭짓점 n까지의 경로 가중치
 * `h(n)` :꼭짓점 n으로부터 목표 꼭짓점까지의 추정 경로 가중치
@@ -114,7 +116,9 @@ D* 알고리즘은 Anthony Stentz에 의해 1994년에 처음 제안되었으며
 
 먼저, A* 알고리즘이 경로를 계산하는 기본 공식은 다음과 같습니다:
 
-![Formula1](C:\Users\NonSleep\Desktop\Formula1.png)
+
+![image](https://github.com/hachiman888/2025-AIX-DL-Project/blob/main/img/Formula1.png)
+
 
 * `f(n)` :현재 노드의 평가 함수는 시작점부터 목표지점까지의 예상 총 비용을 나타냅니다.
 
@@ -158,7 +162,7 @@ D* 알고리즘은 이를 기반으로 개선을 이루었으며, 변화하는 �
 
    
 
-   ![update_value_of_g(n)](C:\Users\NonSleep\Desktop\update_value_of_g(n).png)
+   ![image]([C:\Users\NonSleep\Desktop\update_value_of_g(n).png](https://github.com/hachiman888/2025-AIX-DL-Project/blob/main/img/update_value_of_g(n).png))
 
    
 
@@ -172,11 +176,11 @@ D* 알고리즘은 이를 기반으로 개선을 이루었으며, 변화하는 �
 
    
 
-   ![update_value_of_rhs(n)](C:\Users\NonSleep\Desktop\update_value_of_rhs(n).png)
+   ![image]([C:\Users\NonSleep\Desktop\update_value_of_rhs(n).png](https://github.com/hachiman888/2025-AIX-DL-Project/blob/main/img/update_value_of_rhs(n).png))
 
    
 
-   1
+   
 
 
    이 두 공식은 노드의 최소 비용을 계산하며, 점진적으로 경로의 추정값을 갱신합니다.
@@ -191,8 +195,8 @@ D* 알고리즘은 이를 기반으로 개선을 이루었으며, 변화하는 �
 
    
 
-   ![update_value_of_g(n)](C:\Users\NonSleep\Desktop\update_value_of_g(n).png)
-
+   ![image]([C:\Users\NonSleep\Desktop\update_value_of_g(n).png](https://github.com/hachiman888/2025-AIX-DL-Project/blob/main/img/update_value_of_g(n).png))
+   
    
 
    역방향 갱신 과정에서 D* 알고리즘은 갱신된 값을 기반으로 새로운 최단 경로를 계산합니다. 장애물 변화가 발생하면 영향을 받은 영역을 확인하고 경로 추정값을 다음과 같이 갱신합니다:
