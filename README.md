@@ -162,7 +162,7 @@ D* 알고리즘은 이를 기반으로 개선을 이루었으며, 변화하는 �
 
    
 
-   ![image]([C:\Users\NonSleep\Desktop\update_value_of_g(n).png](https://github.com/hachiman888/2025-AIX-DL-Project/blob/main/img/update_value_of_g(n).png))
+   ![image](https://github.com/hachiman888/2025-AIX-DL-Project/blob/main/img/update_value_of_g(n).png)
 
    
 
@@ -176,7 +176,7 @@ D* 알고리즘은 이를 기반으로 개선을 이루었으며, 변화하는 �
 
    
 
-   ![image]([C:\Users\NonSleep\Desktop\update_value_of_rhs(n).png](https://github.com/hachiman888/2025-AIX-DL-Project/blob/main/img/update_value_of_rhs(n).png))
+   ![image](https://github.com/hachiman888/2025-AIX-DL-Project/blob/main/img/update_value_of_rhs(n).png)
 
    
 
@@ -195,7 +195,7 @@ D* 알고리즘은 이를 기반으로 개선을 이루었으며, 변화하는 �
 
    
 
-   ![image]([C:\Users\NonSleep\Desktop\update_value_of_g(n).png](https://github.com/hachiman888/2025-AIX-DL-Project/blob/main/img/update_value_of_g(n).png))
+  ![image](https://github.com/hachiman888/2025-AIX-DL-Project/blob/main/img/update_value_of_g(n).png)
    
    
 
