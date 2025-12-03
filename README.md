@@ -554,8 +554,6 @@ D* 알고리즘의 등장은 A* 알고리즘의 동적 환경에서의 한계를
 
 https://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html
 
-https://cloud.tencent.com/developer/article/2536646
-
 <https://en.wikipedia.org/wiki/D*>
 
 https://web.mit.edu/16.412j/www/html/papers/original_dstar_icra94.pdf
